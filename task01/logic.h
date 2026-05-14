@@ -1,8 +1,9 @@
 #include <iostream>
-#define SIZE 100
+#include <ctime>
+#define SIZE 20
 
 using namespace std;
 
-int get_duplicates_of_numbers(int array[]);
+int get_duplicates_of_numbers(int array[], int arrayresult[]);
 
 
